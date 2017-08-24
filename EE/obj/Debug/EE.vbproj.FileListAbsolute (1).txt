@@ -1,0 +1,27 @@
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\EE\bin\Debug\EE.dll
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\EE\bin\Debug\EE.pdb
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\EE\bin\Debug\EE.xml
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\EE\obj\Debug\EE.vbprojResolveAssemblyReference.cache
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\EE\obj\Debug\EE.Resources.resources
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\EE\obj\Debug\EE.vbproj.GenerateResource.Cache
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\EE\obj\Debug\EE.dll
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\EE\obj\Debug\EE.xml
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\EE\obj\Debug\EE.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\EE\bin\Debug\EE.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\EE\bin\Debug\EE.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\EE\bin\Debug\EE.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\EE\obj\Debug\EE.vbprojResolveAssemblyReference.cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\EE\obj\Debug\EE.Resources.resources
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\EE\obj\Debug\EE.vbproj.GenerateResource.Cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\EE\obj\Debug\EE.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\EE\obj\Debug\EE.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\EE\obj\Debug\EE.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\EE\bin\Debug\EE.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\EE\bin\Debug\EE.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\EE\bin\Debug\EE.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\EE\obj\Debug\EE.vbprojResolveAssemblyReference.cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\EE\obj\Debug\EE.Resources.resources
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\EE\obj\Debug\EE.vbproj.GenerateResource.Cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\EE\obj\Debug\EE.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\EE\obj\Debug\EE.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\EE\obj\Debug\EE.pdb

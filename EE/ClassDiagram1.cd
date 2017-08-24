@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EE.clsEquipamiento">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAIAAAAABAAAAAAAAAAAAAAAAAgAAQBAAAA=</HashCode>
+      <FileName>clsEquipamiento.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EE.clsPC">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>clsPC.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EE.clsScrap">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAADAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAQBEAAA=</HashCode>
+      <FileName>clsScrap.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EE.clsTablet">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>clsTablet.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EE.clsTecnica">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>clsTecnica.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EE.clsOtrosDispositivos">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAQBAAAA=</HashCode>
+      <FileName>clsOtrosDispositivos.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EE.clsInfra">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>clsInfra.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,166 @@
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\IU.exe.config
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\obj\Debug\IU.vbprojResolveAssemblyReference.cache
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\obj\Debug\IU.Generar_Codigo_QR.resources
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\obj\Debug\IU.Resources.resources
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\obj\Debug\IU.vbproj.GenerateResource.Cache
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\obj\Debug\IU.xml
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\IU.exe
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\IU.pdb
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\IU.xml
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\ThoughtWorks.QRCode.dll
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\obj\Debug\IU.exe
+c:\users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\obj\Debug\IU.pdb
+C:\Users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\MetroFramework.Design.dll
+C:\Users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\MetroFramework.dll
+C:\Users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\obj\Debug\IU.PaginaPrincipal.resources
+C:\Users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\BLL.dll
+C:\Users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\BLL.pdb
+C:\Users\benitand\documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\BLL.xml
+C:\Users\benitand\Documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\EE.dll
+C:\Users\benitand\Documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\EE.pdb
+C:\Users\benitand\Documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\EE.xml
+C:\Users\benitand\Documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\DAL.dll
+C:\Users\benitand\Documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\DAL.pdb
+C:\Users\benitand\Documents\visual studio 2015\Projects\Codigo QR\IU\bin\Debug\DAL.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\IU.exe.config
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\obj\Debug\IU.exe
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\obj\Debug\IU.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\obj\Debug\IU.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\IU.exe
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\IU.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\IU.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\BLL.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\EE.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\MetroFramework.Design.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\MetroFramework.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\DAL.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\BLL.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\BLL.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\EE.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\EE.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\DAL.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\bin\Debug\DAL.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\obj\Debug\IU.vbprojResolveAssemblyReference.cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\obj\Debug\IU.Generar_Codigo_QR.resources
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\obj\Debug\IU.Resources.resources
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\obj\Debug\IU.PaginaPrincipal.resources
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\obj\Debug\IU.vbproj.GenerateResource.Cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR\IU\obj\Debug\IU.frmScrap.resources
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\IU.exe.config
+C:\Users\benitand\Desktop\Codigo QR\IU\obj\Debug\IU.exe
+C:\Users\benitand\Desktop\Codigo QR\IU\obj\Debug\IU.xml
+C:\Users\benitand\Desktop\Codigo QR\IU\obj\Debug\IU.pdb
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\IU.exe
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\IU.pdb
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\IU.xml
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\BLL.dll
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\EE.dll
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\MetroFramework.Design.dll
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\MetroFramework.dll
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\DAL.dll
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\BLL.pdb
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\BLL.xml
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\EE.pdb
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\EE.xml
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\DAL.pdb
+C:\Users\benitand\Desktop\Codigo QR\IU\bin\Debug\DAL.xml
+C:\Users\benitand\Desktop\Codigo QR\IU\obj\Debug\IU.vbprojResolveAssemblyReference.cache
+C:\Users\benitand\Desktop\Codigo QR\IU\obj\Debug\IU.frmScrap.resources
+C:\Users\benitand\Desktop\Codigo QR\IU\obj\Debug\IU.Generar_Codigo_QR.resources
+C:\Users\benitand\Desktop\Codigo QR\IU\obj\Debug\IU.Resources.resources
+C:\Users\benitand\Desktop\Codigo QR\IU\obj\Debug\IU.PaginaPrincipal.resources
+C:\Users\benitand\Desktop\Codigo QR\IU\obj\Debug\IU.vbproj.GenerateResource.Cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\IU.exe.config
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.exe
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\IU.exe
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\IU.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\IU.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\BLL.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\EE.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\MetroFramework.Design.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\MetroFramework.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\DAL.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\BLL.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\BLL.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\EE.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\EE.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\DAL.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\DAL.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.vbprojResolveAssemblyReference.cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.frmScrap.resources
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.Resources.resources
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.PaginaPrincipal.resources
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.vbproj.GenerateResource.Cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.Generar Codigo QR.resources
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.frmPC.resources
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\IU.exe.config
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.xml
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.pdb
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\IU.exe
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\IU.pdb
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\IU.xml
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\BLL.dll
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\EE.dll
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\MetroFramework.Design.dll
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\MetroFramework.dll
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\DAL.dll
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\BLL.pdb
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\BLL.xml
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\EE.pdb
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\EE.xml
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\DAL.pdb
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\bin\Debug\DAL.xml
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.vbprojResolveAssemblyReference.cache
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.frmPC.resources
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.frmScrap.resources
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.Generar Codigo QR.resources
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.Resources.resources
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.PaginaPrincipal.resources
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.vbproj.GenerateResource.Cache
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.exe
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.frmTablet.resources
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.frmTecnica.resources
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.frmOtrosDispositivos.resources
+C:\Users\benitand\Google Drive\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\IU\obj\Debug\IU.frmInfraEstructura.resources
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\IU.exe.config
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\IU.exe
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\IU.pdb
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\IU.xml
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\BLL.dll
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\EE.dll
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\MetroFramework.Design.dll
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\MetroFramework.dll
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\DAL.dll
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\BLL.pdb
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\BLL.xml
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\EE.pdb
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\EE.xml
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\DAL.pdb
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\bin\Debug\DAL.xml
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.vbprojResolveAssemblyReference.cache
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.frmInfraEstructura.resources
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.frmOtrosDispositivos.resources
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.frmPC.resources
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.frmScrap.resources
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.frmTablet.resources
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.frmTecnica.resources
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.Generar Codigo QR.resources
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.Resources.resources
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.PaginaPrincipal.resources
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.vbproj.GenerateResource.Cache
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.exe
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.xml
+C:\Users\benitand\Downloads\Codigo QR_V2-20170327T191749Z-001\Codigo QR_V2\IU\obj\Debug\IU.pdb

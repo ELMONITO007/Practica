@@ -1,0 +1,20 @@
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\DAL\bin\Debug\DAL.dll
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\DAL\bin\Debug\DAL.pdb
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\DAL\bin\Debug\DAL.xml
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\DAL\obj\Debug\DAL.dll
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\DAL\obj\Debug\DAL.xml
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\DAL\obj\Debug\DAL.pdb
+C:\Users\benitand\Documents\Visual Studio 2015\Projects\Codigo QR\DAL\obj\Debug\DAL.vbproj.ResolveComReference.cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\DAL\bin\Debug\DAL.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\DAL\bin\Debug\DAL.pdb
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\DAL\bin\Debug\DAL.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\DAL\obj\Debug\DAL.vbproj.ResolveComReference.cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\DAL\obj\Debug\DAL.dll
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\DAL\obj\Debug\DAL.xml
+C:\Users\benitand\Google Drive\Microinformatica\Proyectos (Microinformatica)\Proyectos en Análisis\En proceso\QR\Programa\Codigo QR_V2\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{28DF90B1-AF22-4AC6-B11F-AD4FB1E2231E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>IU.My.MyApplication</StartupObject>
+    <RootNamespace>IU</RootNamespace>
+    <AssemblyName>IU</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IU.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IU.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\Librerias\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\Librerias\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\Librerias\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="ThoughtWorks.QRCode">
+      <HintPath>..\Librerias\ThoughtWorks.QRCode.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmInfraEstructura.Designer.vb">
+      <DependentUpon>frmInfraEstructura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInfraEstructura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOtrosDispositivos.Designer.vb">
+      <DependentUpon>frmOtrosDispositivos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOtrosDispositivos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPC.Designer.vb">
+      <DependentUpon>frmPC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmScrap.Designer.vb">
+      <DependentUpon>frmScrap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmScrap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTablet.Designer.vb">
+      <DependentUpon>frmTablet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTablet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTecnica.Designer.vb">
+      <DependentUpon>frmTecnica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTecnica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generar Codigo QR.Designer.vb">
+      <DependentUpon>Generar Codigo QR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Generar Codigo QR.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PaginaPrincipal.Designer.vb">
+      <DependentUpon>PaginaPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmInfraEstructura.resx">
+      <DependentUpon>frmInfraEstructura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOtrosDispositivos.resx">
+      <DependentUpon>frmOtrosDispositivos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPC.resx">
+      <DependentUpon>frmPC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmScrap.resx">
+      <DependentUpon>frmScrap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTablet.resx">
+      <DependentUpon>frmTablet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTecnica.resx">
+      <DependentUpon>frmTecnica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Generar Codigo QR.resx">
+      <DependentUpon>Generar Codigo QR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaginaPrincipal.resx">
+      <DependentUpon>PaginaPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.vbproj">
+      <Project>{a9976b96-9c5e-4aee-b7be-2decad8fc4f4}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EE\EE.vbproj">
+      <Project>{8df5ebd4-a696-43d7-91cc-56d0ce271cf4}</Project>
+      <Name>EE</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
